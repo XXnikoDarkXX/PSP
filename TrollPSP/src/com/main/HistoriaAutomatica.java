@@ -32,13 +32,13 @@ public class HistoriaAutomatica {
 		
  
         //esperamos 2 segundos antes de empezar a escribir
-        robot.delay(2000);
+        robot.delay(4000);
  
         
-      //click con el boton izquierdo
-        robot.mouseMove(300, 600);
+     // click con el boton izquierdo
+        //robot.mouseMove(300, 600);
         robot.mousePress(InputEvent.BUTTON1_MASK);
-        robot.mouseRelease(InputEvent.BUTTON1_MASK);
+       robot.mouseRelease(InputEvent.BUTTON1_MASK);
         
         //iteramos a través del arreglo de teclas
         for (int i = 0 ; i < pruebaTecla.length ; i++) {
