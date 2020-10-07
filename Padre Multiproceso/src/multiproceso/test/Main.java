@@ -7,7 +7,14 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 public class Main {
-
+	/**
+	 * Este fichero es el padre en cual ejecutamos por medio de ProcessBuilder el proyecto en modo .java
+	 * de hijo, ahi lo que hacemos es ir escribiendo con la clase Escritor (que estan en los dos proyetos)
+	 * y por medio de una ruta String que esta en el constructor de dicho Escritor accedemos a los log
+	 * y ya con la funcion escribir escribimos en dichos log concatenando tanto lo que escribe el padre
+	 * como lo que escribe el hijo en modo proceso (.java)
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		try {
 			//lo ponemos a true para que machaque y lo ponga en blanco
