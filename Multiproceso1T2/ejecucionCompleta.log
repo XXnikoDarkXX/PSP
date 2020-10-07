@@ -1,14 +1,14 @@
-[2020-10-06T10:50:52.181586900] ¿Está hijo nº0 vivo? true
-[2020-10-06T10:50:52.213031] ¿Está hijo nº1 vivo? true
-[2020-10-06T10:50:52.230969700] ¿Está hijo nº2 vivo? true
-[2020-10-06T10:50:52.242939] ¿Está hijo nº3 vivo? false
+[2020-10-07T17:36:18.435370500] ¿Está hijo nº0 vivo? true
+[2020-10-07T17:36:18.467286400] ¿Está hijo nº1 vivo? true
+[2020-10-07T17:36:18.485250800] ¿Está hijo nº2 vivo? false
+[2020-10-07T17:36:18.485250800] ¿Está hijo nº3 vivo? false
 
 
 ----EJECUCIÓN DE HIJOS TERMINADA------
-[2020-10-06T10:50:52.242939] Valor de salida del hijo nº0: 1
-[2020-10-06T10:50:52.243935900] Valor de salida del hijo nº1: 1
-[2020-10-06T10:50:52.243935900] Valor de salida del hijo nº2: 1
-[2020-10-06T10:50:52.243935900] Valor de salida del hijo nº3: 1
+[2020-10-07T17:36:18.486234300] Valor de salida del hijo nº0: 1
+[2020-10-07T17:36:18.486234300] Valor de salida del hijo nº1: 1
+[2020-10-07T17:36:18.486234300] Valor de salida del hijo nº2: 1
+[2020-10-07T17:36:18.486234300] Valor de salida del hijo nº3: 1
 ----
-[2020-10-06T10:50:52.243935900] Todos los hijos han terminado.
+[2020-10-07T17:36:18.486234300] Todos los hijos han terminado.
 ------------------------------
