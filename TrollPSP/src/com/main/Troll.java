@@ -6,21 +6,31 @@ import java.awt.Robot;
 import java.awt.Toolkit;
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.FileSystem;
+import java.nio.file.FileSystems;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.LinkedList;
 import java.util.Random;
 
 import javax.print.attribute.standard.Media;
 
 import com.grafico.GraficoImagenes;
+import com.grafico.GraficoRandom;
+import com.grafico.GraficoSimpson;
 import com.grafico.Historia;
 
 public class Troll {
 	
 
 	public static void main(String[] args) {
-
+		FileSystem fs = FileSystems.getDefault();// Creamos un File System para poder manejar ficheros
+		
 		// Vamos a conocer primero la resolucion de la pantalla en java para ello vamos
 		// a usar el framewoerk Toolkit
 		GraficoImagenes trolBienvenida=new GraficoImagenes();
@@ -32,13 +42,13 @@ public class Troll {
 		//Mostramos la resolucion de tu pantalla
 		System.out.println("Tu resolución es de " + tamanoPantalla.width + "x" + tamanoPantalla.height);
 		// instanciamos la clase Robot
-		Robot robot;
+		Robot robot = null;
 		int alturaPantalla=tamanoPantalla.height;//obtenemos el alto de la resolucion y lo almacenamos
 		int anchoPantalla=tamanoPantalla.width;//Obtenemos el ancho de la resolucion 
 		
        
       String historiaInicial ="bienvenido al programa trollpsp ahora quedate quieto y alucina";	
-        //String historiaInicial ="hola";	
+      
       
        
     
@@ -68,12 +78,13 @@ public class Troll {
             robot.delay(250);
        
 	}
-        Historia ventanaHistoria=new Historia();
-        String mensajeSegundo="vamos a empezar un poquito mas rapido esto es solo el inicio, y recuerda una cosa la recursividad no es para ti";
+        Historia ventanaHistoria=new Historia(); 
+        
+        String mensajeSegundo="es la hora del sufrimiento  recuerda una cosa la recursividad no es para vosotros cermuzoos";
         robot.delay(1000);//dormimos al robot solo 1sg
         int []tecladoSegundo=teclado(mensajeSegundo);
         // click con el boton izquierdo
-        robot.mouseMove(alturaPantalla/4, anchoPantalla/4);//centramos el raton justo a al texto para escribir
+        robot.mouseMove(100, 100);//centramos el raton justo a al texto para escribir
         robot.mousePress(InputEvent.BUTTON1_MASK);
        robot.mouseRelease(InputEvent.BUTTON1_MASK);
         //Segunda fase de escritura en cosola pero mas rapido
@@ -91,8 +102,120 @@ public class Troll {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+		//vamos a empezar a crear carpetas a lo loco y tambien algun que otro archivo
 		
 		
+
+		// dentro de esta carpeta vamos a iterar en bucle creando carpetillas
+		Path actual = fs.getPath("copiasMultiverso");
+		
+		System.out.println(actual.toAbsolutePath());
+		
+		//creamos copiasMultiverso 
+		try {
+			Files.createDirectories(actual);
+		} catch (IOException e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+		}
+		carpetaTroll(actual, "cermuzooos");
+		
+		
+		
+		//ahora vamos a crear un arhvico txt y le vamos a escribir algo
+	Path archivoHack=fs.getPath(actual+"\\hack.txt");
+		
+		if (Files.exists(archivoHack)) {
+			
+		}else {
+			System.out.println("Creando archivo");
+			try {
+				Files.createFile(fs.getPath(actual.toString(),"hack.txt"));
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+        
+       
+		FileWriter escritor;
+		String ubi=actual.toString();
+			try {
+				escritor = new FileWriter(actual+"/hack.txt");
+		
+		
+
+		escritor.write("Hola,te he creado un txt\n");
+
+		escritor.write("Cuando termines revisa esta ubicacion: "+archivoHack.toAbsolutePath()+"\n");
+		escritor.write("bueno si te lo pongo yo");
+		
+		escritor.flush();
+
+		escritor.close();
+		
+	
+				
+		BufferedReader  br=new BufferedReader(new FileReader(actual+"/hack.txt"));
+	    String textoArchivo="";
+	            String textoLinea="";
+	            while(textoLinea!=null){
+	                textoArchivo+=textoLinea+"\n";
+	                textoLinea=br.readLine();
+	                
+	            }
+	            System.out.println(textoArchivo);
+	            br.close();
+		
+	        	Thread.sleep(2000);
+	    		
+	    		//Nos metemos en la carpeta del TrollPSP
+	    				
+	    		Process p = new ProcessBuilder("explorer.exe", "/select,"+actual.toAbsolutePath()+"\\c").start();
+			} catch (IOException | InterruptedException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+		//Le metemos el grafico de homerSimsomp
+	    		
+	    		GraficoSimpson simpson=new GraficoSimpson();
+	    		try {
+					Thread.sleep(4000);
+				} catch (InterruptedException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+	    		//3 parte de historia
+	    		GraficoImagenes trolFinalizar=new GraficoImagenes();
+	    		try {
+					Thread.sleep(4000);
+				} catch (InterruptedException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+	    		  Historia ventanaHistoria=new Historia();
+	    	        String mensajeSegundo="la ultima parte crack";
+	    	        robot.delay(80);//dormimos al robot solo 1sg
+	    	        int []tecladoSegundo=teclado(mensajeSegundo);
+	    	        // click con el boton izquierdo
+	    	        robot.mouseMove(100, 100);//centramos el raton justo a al texto para escribir
+	    	        robot.mousePress(InputEvent.BUTTON1_MASK);
+	    	       robot.mouseRelease(InputEvent.BUTTON1_MASK);
+	    	        //Segunda fase de escritura en cosola pero mas rapido
+	    	        for (int i = 0; i < tecladoSegundo.length; i++) {
+	    	        	  //presionamos y soltamos cada tecla del array
+	    	            robot.keyPress(tecladoSegundo[i]);//presionamos la tecla
+	    	            robot.keyRelease(tecladoSegundo[i]);//la esribimos
+	    	       
+	    	            //dormimos el robot por 250 mili segundos luego de usar cada tecla
+	    	            robot.delay(80);
+	    	        }
+	    		try {
+					Thread.sleep(1000);
+				} catch (InterruptedException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
 		Random r=new Random();
 		try {
 			robot = new Robot();
@@ -100,9 +223,10 @@ public class Troll {
 			// cambia la posición en pantalla del puntero a las coordenadas
 			// X=300 e Y=600.
 			robot.mouseMove(300, 600);
-			for (int i = 0; i < 2; i++) {//REVISAR
+			for (int i = 0; i < 50; i++) {
+		   GraficoRandom imagenRandom=new GraficoRandom();
 			robot.mouseMove(r.nextInt(1300), 700);	
-			robot.delay(500);
+			robot.delay(80);
 			}
 			int x;
 			int y;
@@ -112,7 +236,8 @@ public class Troll {
 		} catch (AWTException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		}	
+		
 
 		
 		
@@ -256,7 +381,32 @@ public class Troll {
 		 return teclaSiempre;
 		 
 	 }
-	
+
+		/**
+		 * Mediante esta funcion creamos en un path una marquesina de carpetas
+		 * 
+		 * @param ruta a la cual vamos a meter las carpetas
+		 * @param msj  nombre de las carpetas
+		 */
+		public static void carpetaTroll(Path ruta, String msj) {
+			try {
+				FileSystem fs = FileSystems.getDefault();// Creamos un File System para poder manejar ficheros
+				String res = "";
+
+				for (int i = 0; i < msj.length() - 1; i++) {
+
+					res += msj.charAt(i);
+
+					Path carpetaMuchas = fs.getPath(ruta + fs.getSeparator() + res);
+
+					Files.createDirectories(carpetaMuchas);
+				}
+
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 		
 		
 		

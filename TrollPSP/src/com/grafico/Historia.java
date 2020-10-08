@@ -18,7 +18,8 @@ import java.awt.CardLayout;
 import javax.swing.JTextArea;
 
 public class Historia extends JFrame {
-
+private int locaX;
+private int locaY;
 	private JPanel contentPane;
 
 	/**
@@ -54,7 +55,13 @@ public class Historia extends JFrame {
 		playSound();
 	}
 	
-	public static void playSound() {
+	public int[] localizarHistoria() {
+		int[] coordenadas=new int[2];
+		
+		return coordenadas;
+	}
+	
+	public  void playSound() {
 		try {
 		AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("./musica\\teclado.wav").getAbsoluteFile());
 		Clip clip = AudioSystem.getClip();

@@ -71,7 +71,7 @@ public class GraficoImagenes extends JFrame {
 	}
 	public static void playSound() {
 		try {
-		AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("C:\\Users\\nicoc\\Documents\\GitHub\\PSP\\TrollPSP\\musica\\trol1.wav").getAbsoluteFile());
+		AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("./musica\\trol1.wav").getAbsoluteFile());
 		Clip clip = AudioSystem.getClip();
 		clip.open(audioInputStream);
 		clip.start();
