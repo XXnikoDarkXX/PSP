@@ -14,20 +14,23 @@ public class Escritor {
 	
 	/**
 	 * Constructor de la clase, recibe dos rutas de fichero en las que escribir
-	 * @param ficheroLogIndividual ruta del fichero de log donde escribir√° solo el proceso actual
-	 * @param ficheroLogComun ruta del fichero de log donde escribir√°n varios procesos ejecutados en paralelo
-	 * @param machacar Si est√° a true, machaca el contenido de los ficheros, dej√°ndolos en blanco. Si no, concatenar√°.
-	 * @throws IOException 
+	 * @param ficheroLogIndividual ruta del fichero de log donde escribir· solo el proceso actual
+	 * @param ficheroLogComun ruta del fichero de log donde escribir·n varios procesos ejecutados en paralelo
+	 * @param machacarIndividual Si est· a true, machaca el contenido de los ficheros, dej·ndolos en blanco. Si no, concatenar·.
+	 * @param machacarComun Si est· a true, machaca el contenido de los ficheros, dej·ndolos en blanco. Si no, concatenar·.
+	 * @throws IOException La lanza si no puede escribir
 	 */
-	public Escritor(String ficheroLogIndividual,String ficheroLogComun,boolean machacar) throws IOException {
+	public Escritor(String ficheroLogIndividual,String ficheroLogComun,boolean machacarIndividual,boolean machacarComun) throws IOException {
 		individual=ficheroLogIndividual;
 		comun=ficheroLogComun;
 		
 		//Este if es solo para que me ponga en blanco el contenido de los ficheros
-		if(machacar) {
+		if(machacarIndividual) {
 			FileWriter escritorIndividual=new FileWriter(individual);
-			FileWriter escritorComun=new FileWriter(comun);
 			escritorIndividual.close();
+		}
+		if(machacarComun) {
+			FileWriter escritorComun=new FileWriter(comun);
 			escritorComun.close();
 		}
 		

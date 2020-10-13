@@ -18,9 +18,11 @@ public class Main {
 	public static void main(String[] args) {
 		try {
 			//lo ponemos a true para que machaque y lo ponga en blanco
-			Escritor escritor=new Escritor("procesoPadre.log","ejecucionCompleta.log",true);
+			Escritor escritor=new Escritor("procesoPadre.log","ejecucionCompleta.log",true,true);//por defecto sera true al iniciar un Escritor
+		
 			ArrayList<Process> hijos=new ArrayList<Process>();
 			 
+			
 			//mandamos a escribir los fichero log del main hijo
 			for (int i = 0; i < Runtime.getRuntime().availableProcessors(); i++) {
 				ProcessBuilder pb=new ProcessBuilder("java","-jar","../Hijo Multiproceso/hijo.jar",i+"");

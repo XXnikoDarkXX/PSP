@@ -12,8 +12,8 @@ public class MainHijo {
 
 	public static void main(String[] args) {
 		try {
-			
-			Escritor escritor=new Escritor("hijo"+args[0]+".log","ejecucionCompleta.log",false);
+			//queremos que machaque solo el invidual pero no el colectivo
+			Escritor escritor=new Escritor("hijo"+args[0]+".log","ejecucionCompleta.log",true,false);
 			escritor.escribir("["+LocalDateTime.now()+"] Hola mundo, soy el proceso hijo "+args[0]);
 		
 		} catch (IOException e) {
