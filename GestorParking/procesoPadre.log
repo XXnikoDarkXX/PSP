@@ -1,0 +1,10 @@
+[LocalDateTime.now()][2020-10-20T09:15:42.453972900] Esta  la barrera nº0 vivo? true
+[LocalDateTime.now()][2020-10-20T09:15:52.918863400] Esta  la barrera nº1 vivo? false
+[LocalDateTime.now()]
+
+----EJECUCIÃ“N DE HIJOS TERMINADA------
+[LocalDateTime.now()][2020-10-20T09:15:52.924962800] Valor de salida de la barrira nÂº0: 0
+[LocalDateTime.now()][2020-10-20T09:15:52.928093900] Valor de salida de la barrira nÂº1: 0
+[LocalDateTime.now()]----
+[2020-10-20T09:15:52.930946100] Todos las barreras han terminado.
+------------------------------
