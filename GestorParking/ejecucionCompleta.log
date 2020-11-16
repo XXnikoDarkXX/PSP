@@ -1,18 +1,10 @@
-[LocalDateTime.now()][2020-10-20T09:15:42.453972900] Esta  la barrera nº0 vivo? true
+[LocalDateTime.now()][2020-11-15T12:48:02.675083500] Esta  la barrera nº0 vivo? true
 [LocalDateTime.now()] Hola mundo, lanzando barrera 0
 [LocalDateTime.now()] Hola mundo, lanzando barrera 1
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
-[LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
-[LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
-[LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
-[LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
@@ -49,32 +41,38 @@
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
-[LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
+[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
+[LocalDateTime.now()]la barrera 1 recibe un coche
+[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
 [LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]la barrera 1 recibe un coche
-[LocalDateTime.now()]apagada la barrera0
+[LocalDateTime.now()]la barrera 1 recibe un coche
+[LocalDateTime.now()]la barrera 0 recibe un coche
+[LocalDateTime.now()]la barrera 0 recibe un coche
+[LocalDateTime.now()]la barrera 1 recibe un coche
+[LocalDateTime.now()]la barrera 1 recibe un coche
+[LocalDateTime.now()]la barrera 0 recibe un coche
 [LocalDateTime.now()]apagada la barrera1
-[LocalDateTime.now()][2020-10-20T09:15:52.918863400] Esta  la barrera nº1 vivo? false
+[LocalDateTime.now()]apagada la barrera0
+[LocalDateTime.now()][2020-11-15T12:48:13.061042300] Esta  la barrera nº1 vivo? false
 [LocalDateTime.now()]
 
 ----EJECUCIÃ“N DE HIJOS TERMINADA------
-[LocalDateTime.now()][2020-10-20T09:15:52.924962800] Valor de salida de la barrira nÂº0: 0
-[LocalDateTime.now()][2020-10-20T09:15:52.928093900] Valor de salida de la barrira nÂº1: 0
+[LocalDateTime.now()][2020-11-15T12:48:13.063077100] Valor de salida de la barrira nÂº0: 0
+[LocalDateTime.now()][2020-11-15T12:48:13.064064200] Valor de salida de la barrira nÂº1: 0
 [LocalDateTime.now()]----
-[2020-10-20T09:15:52.930946100] Todos las barreras han terminado.
+[2020-11-15T12:48:13.065065100] Todos las barreras han terminado.
 ------------------------------

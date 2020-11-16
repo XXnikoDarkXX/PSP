@@ -21,7 +21,7 @@ public class PadreGestor {
 	public static void main(String[] args) {
 		try {
 			//lo ponemos a true para que machaque y lo ponga en blanco
-			Escritor escritor=new Escritor("procesoPadre.log","ejecucionCompleta.log",true,true);//por defecto sera true al iniciar un Escritor
+			Escritor escritor=new Escritor("./procesoPadre.log","./ejecucionCompleta.log",true,true);//por defecto sera true al iniciar un Escritor
 		
 			ArrayList<Process> hijos=new ArrayList<Process>();
 			 
