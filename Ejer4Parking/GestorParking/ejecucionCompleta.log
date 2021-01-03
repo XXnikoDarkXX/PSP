@@ -1,0 +1,508 @@
+[2020-11-29T18:53:06.499969200] Está la barrera nº0 vivo? true
+[2020-11-29T18:53:06.984245500] Lanzando barrera 0
+[2020-11-29T18:53:06.987253700] La barrera 0 recibe un coche: 4561 XLN
+[2020-11-29T18:53:06.990228900] La barrera 0 tiene un coche en espera (4561 XLN) Plazas libres: 127
+[2020-11-29T18:53:06.992223500] La barrera 0 deja pasar un coche: 4561 XLN Quedan 126 plazas.
+[2020-11-29T18:53:06.994217700] La barrera 0 recibe un coche: 5819 YQJ
+[2020-11-29T18:53:06.995216200] La barrera 0 tiene un coche en espera (5819 YQJ) Plazas libres: 126
+[2020-11-29T18:53:06.997210100] La barrera 0 deja pasar un coche: 5819 YQJ Quedan 125 plazas.
+[2020-11-29T18:53:06.999204800] La barrera 0 recibe un coche: 8371 TVN
+[2020-11-29T18:53:07.003194] La barrera 0 tiene un coche en espera (8371 TVN) Plazas libres: 125
+[2020-11-29T18:53:07.024203400] La barrera 0 deja pasar un coche: 8371 TVN Quedan 124 plazas.
+[2020-11-29T18:53:07.032361300] La barrera 0 recibe un coche: 1777 MHT
+[2020-11-29T18:53:07.037218400] La barrera 0 tiene un coche en espera (1777 MHT) Plazas libres: 124
+[2020-11-29T18:53:07.040210500] La barrera 0 deja pasar un coche: 1777 MHT Quedan 123 plazas.
+[2020-11-29T18:53:07.055371700] La barrera 0 recibe un coche: 4656 GPH
+[2020-11-29T18:53:07.062415700] La barrera 0 tiene un coche en espera (4656 GPH) Plazas libres: 123
+[2020-11-29T18:53:07.064392100] La barrera 0 deja pasar un coche: 4656 GPH Quedan 122 plazas.
+[2020-11-29T18:53:07.066402] La barrera 0 recibe un coche: 7504 RQB
+[2020-11-29T18:53:07.068381700] La barrera 0 tiene un coche en espera (7504 RQB) Plazas libres: 122
+[2020-11-29T18:53:07.069379800] La barrera 0 deja pasar un coche: 7504 RQB Quedan 121 plazas.
+[2020-11-29T18:53:07.073367900] La barrera 0 recibe un coche: 9799 QNH
+[2020-11-29T18:53:07.075364200] La barrera 0 tiene un coche en espera (9799 QNH) Plazas libres: 121
+[2020-11-29T18:53:07.077358300] La barrera 0 deja pasar un coche: 9799 QNH Quedan 120 plazas.
+[2020-11-29T18:53:07.079354500] La barrera 0 recibe un coche: 5612 GKJ
+[2020-11-29T18:53:07.085336900] La barrera 0 tiene un coche en espera (5612 GKJ) Plazas libres: 120
+[2020-11-29T18:53:07.087331400] La barrera 0 deja pasar un coche: 5612 GKJ Quedan 119 plazas.
+[2020-11-29T18:53:07.088328100] Lanzando barrera 1
+[2020-11-29T18:53:07.091319800] La barrera 0 recibe un coche: 8872 MGJ
+[2020-11-29T18:53:07.091319800] La barrera 1 recibe un coche: 7931 SHJ
+[2020-11-29T18:53:07.094312400] La barrera 0 tiene un coche en espera (8872 MGJ) Plazas libres: 119
+[2020-11-29T18:53:07.095310] La barrera 1 tiene un coche en espera (7931 SHJ) Plazas libres: 119
+[2020-11-29T18:53:07.096306900] La barrera 0 deja pasar un coche: 8872 MGJ Quedan 118 plazas.
+[2020-11-29T18:53:07.097304] La barrera 1 deja pasar un coche: 7931 SHJ Quedan 118 plazas.
+[2020-11-29T18:53:07.098301200] La barrera 0 recibe un coche: 2007 LNQ
+[2020-11-29T18:53:07.100308] La barrera 1 recibe un coche: 4552 ZGT
+[2020-11-29T18:53:07.101293] La barrera 0 tiene un coche en espera (2007 LNQ) Plazas libres: 118
+[2020-11-29T18:53:07.102291] La barrera 1 tiene un coche en espera (4552 ZGT) Plazas libres: 118
+[2020-11-29T18:53:07.103288200] La barrera 0 deja pasar un coche: 2007 LNQ Quedan 117 plazas.
+[2020-11-29T18:53:07.103288200] La barrera 1 deja pasar un coche: 4552 ZGT Quedan 117 plazas.
+[2020-11-29T18:53:07.105282700] La barrera 0 recibe un coche: 9952 VCT
+[2020-11-29T18:53:07.105282700] La barrera 1 recibe un coche: 5029 RSR
+[2020-11-29T18:53:07.107278200] La barrera 0 tiene un coche en espera (9952 VCT) Plazas libres: 117
+[2020-11-29T18:53:07.107278200] La barrera 1 tiene un coche en espera (5029 RSR) Plazas libres: 117
+[2020-11-29T18:53:07.109272400] La barrera 1 deja pasar un coche: 5029 RSR Quedan 116 plazas.
+[2020-11-29T18:53:07.110270800] La barrera 0 deja pasar un coche: 9952 VCT Quedan 116 plazas.
+[2020-11-29T18:53:07.112332200] La barrera 1 recibe un coche: 5814 VTT
+[2020-11-29T18:53:07.112332200] La barrera 0 recibe un coche: 4554 BQD
+[2020-11-29T18:53:07.113312600] La barrera 1 tiene un coche en espera (5814 VTT) Plazas libres: 116
+[2020-11-29T18:53:07.114322400] La barrera 0 tiene un coche en espera (4554 BQD) Plazas libres: 116
+[2020-11-29T18:53:07.114322400] Lanzando barrera 2
+[2020-11-29T18:53:07.115306] La barrera 0 deja pasar un coche: 4554 BQD Quedan 115 plazas.
+[2020-11-29T18:53:07.115306] La barrera 1 deja pasar un coche: 5814 VTT Quedan 115 plazas.
+[2020-11-29T18:53:07.117300600] La barrera 2 recibe un coche: 6046 TTN
+[2020-11-29T18:53:07.118297600] La barrera 0 recibe un coche: 0868 VYT
+[2020-11-29T18:53:07.118297600] La barrera 1 recibe un coche: 3941 GCM
+[2020-11-29T18:53:07.120291800] La barrera 2 tiene un coche en espera (6046 TTN) Plazas libres: 115
+[2020-11-29T18:53:07.120291800] La barrera 1 tiene un coche en espera (3941 GCM) Plazas libres: 115
+[2020-11-29T18:53:07.122286] La barrera 1 deja pasar un coche: 3941 GCM Quedan 114 plazas.
+[2020-11-29T18:53:07.123284] La barrera 2 deja pasar un coche: 6046 TTN Quedan 114 plazas.
+[2020-11-29T18:53:07.126278500] La barrera 1 recibe un coche: 3804 PCG
+[2020-11-29T18:53:07.127276300] La barrera 2 recibe un coche: 3951 GXS
+[2020-11-29T18:53:07.129270700] La barrera 1 tiene un coche en espera (3804 PCG) Plazas libres: 114
+[2020-11-29T18:53:07.129270700] La barrera 2 tiene un coche en espera (3951 GXS) Plazas libres: 114
+[2020-11-29T18:53:07.131263700] La barrera 2 deja pasar un coche: 3951 GXS Quedan 113 plazas.
+[2020-11-29T18:53:07.131845900] La barrera 1 deja pasar un coche: 3804 PCG Quedan 113 plazas.
+[2020-11-29T18:53:07.138354900] La barrera 0 tiene un coche en espera (0868 VYT) Plazas libres: 115
+[2020-11-29T18:53:07.137355100] La barrera 2 recibe un coche: 6684 GPN
+[2020-11-29T18:53:07.141351400] La barrera 0 deja pasar un coche: 0868 VYT Quedan 114 plazas.
+[2020-11-29T18:53:07.146577800] La barrera 0 recibe un coche: 9216 CFK
+[2020-11-29T18:53:07.148572900] La barrera 0 tiene un coche en espera (9216 CFK) Plazas libres: 114
+[2020-11-29T18:53:07.149571400] La barrera 0 deja pasar un coche: 9216 CFK Quedan 113 plazas.
+[2020-11-29T18:53:07.152564600] La barrera 0 recibe un coche: 0354 LQK
+[2020-11-29T18:53:07.137355100] La barrera 1 recibe un coche: 0555 CHR
+[2020-11-29T18:53:07.156553500] La barrera 1 tiene un coche en espera (0555 CHR) Plazas libres: 113
+[2020-11-29T18:53:07.156553500] La barrera 2 tiene un coche en espera (6684 GPN) Plazas libres: 113
+[2020-11-29T18:53:07.161538600] La barrera 1 deja pasar un coche: 0555 CHR Quedan 112 plazas.
+[2020-11-29T18:53:07.161538600] La barrera 2 deja pasar un coche: 6684 GPN Quedan 112 plazas.
+[2020-11-29T18:53:07.167520800] La barrera 1 recibe un coche: 2160 LHV
+[2020-11-29T18:53:07.168518800] La barrera 2 recibe un coche: 3174 BHT
+[2020-11-29T18:53:07.168518800] La barrera 0 tiene un coche en espera (0354 LQK) Plazas libres: 113
+[2020-11-29T18:53:07.169517] La barrera 1 tiene un coche en espera (2160 LHV) Plazas libres: 112
+[2020-11-29T18:53:07.169517] La barrera 0 deja pasar un coche: 0354 LQK Quedan 112 plazas.
+[2020-11-29T18:53:07.169517] La barrera 2 tiene un coche en espera (3174 BHT) Plazas libres: 112
+[2020-11-29T18:53:07.171511800] La barrera 1 deja pasar un coche: 2160 LHV Quedan 111 plazas.
+[2020-11-29T18:53:07.171511800] La barrera 0 recibe un coche: 3193 THS
+[2020-11-29T18:53:07.172508400] La barrera 2 deja pasar un coche: 3174 BHT Quedan 111 plazas.
+[2020-11-29T18:53:07.174502300] La barrera 1 recibe un coche: 6746 VRT
+[2020-11-29T18:53:07.175500300] La barrera 2 recibe un coche: 7300 FKX
+[2020-11-29T18:53:07.175500300] La barrera 0 tiene un coche en espera (3193 THS) Plazas libres: 111
+[2020-11-29T18:53:07.175500300] La barrera 1 tiene un coche en espera (6746 VRT) Plazas libres: 111
+[2020-11-29T18:53:07.177494200] La barrera 2 tiene un coche en espera (7300 FKX) Plazas libres: 111
+[2020-11-29T18:53:07.177494200] La barrera 0 deja pasar un coche: 3193 THS Quedan 110 plazas.
+[2020-11-29T18:53:07.177494200] La barrera 1 deja pasar un coche: 6746 VRT Quedan 110 plazas.
+[2020-11-29T18:53:07.179489] La barrera 0 recibe un coche: 1900 PPB
+[2020-11-29T18:53:07.180486700] La barrera 1 recibe un coche: 0787 SHT
+[2020-11-29T18:53:07.180486700] La barrera 2 deja pasar un coche: 7300 FKX Quedan 110 plazas.
+[2020-11-29T18:53:07.181483800] La barrera 0 tiene un coche en espera (1900 PPB) Plazas libres: 110
+[2020-11-29T18:53:07.182481700] La barrera 1 tiene un coche en espera (0787 SHT) Plazas libres: 110
+[2020-11-29T18:53:07.183481700] La barrera 0 deja pasar un coche: 1900 PPB Quedan 109 plazas.
+[2020-11-29T18:53:07.184479] La barrera 1 deja pasar un coche: 0787 SHT Quedan 109 plazas.
+[2020-11-29T18:53:07.186470300] La barrera 0 recibe un coche: 6389 FGN
+[2020-11-29T18:53:07.186470300] La barrera 2 recibe un coche: 6049 XRM
+[2020-11-29T18:53:07.186470300] La barrera 1 recibe un coche: 8279 TDG
+[2020-11-29T18:53:07.187467400] La barrera 2 tiene un coche en espera (6049 XRM) Plazas libres: 109
+[2020-11-29T18:53:07.188466] La barrera 0 tiene un coche en espera (6389 FGN) Plazas libres: 109
+[2020-11-29T18:53:07.188466] La barrera 1 tiene un coche en espera (8279 TDG) Plazas libres: 109
+[2020-11-29T18:53:07.189462300] La barrera 0 deja pasar un coche: 6389 FGN Quedan 108 plazas.
+[2020-11-29T18:53:07.189462300] La barrera 2 deja pasar un coche: 6049 XRM Quedan 108 plazas.
+[2020-11-29T18:53:07.190460300] La barrera 1 deja pasar un coche: 8279 TDG Quedan 108 plazas.
+[2020-11-29T18:53:07.191458200] La barrera 0 recibe un coche: 8628 XPY
+[2020-11-29T18:53:07.192454800] La barrera 1 recibe un coche: 2346 RFQ
+[2020-11-29T18:53:07.193467600] La barrera 0 tiene un coche en espera (8628 XPY) Plazas libres: 108
+[2020-11-29T18:53:07.193467600] La barrera 1 tiene un coche en espera (2346 RFQ) Plazas libres: 108
+[2020-11-29T18:53:07.195447700] La barrera 0 deja pasar un coche: 8628 XPY Quedan 107 plazas.
+[2020-11-29T18:53:07.195447700] La barrera 1 deja pasar un coche: 2346 RFQ Quedan 107 plazas.
+[2020-11-29T18:53:07.198439100] La barrera 1 recibe un coche: 3767 BZZ
+[2020-11-29T18:53:07.200433700] La barrera 0 recibe un coche: 6062 ZWC
+[2020-11-29T18:53:07.201431200] La barrera 0 tiene un coche en espera (6062 ZWC) Plazas libres: 107
+[2020-11-29T18:53:07.203425700] La barrera 0 deja pasar un coche: 6062 ZWC Quedan 106 plazas.
+[2020-11-29T18:53:07.206418] La barrera 0 recibe un coche: 9082 VNX
+[2020-11-29T18:53:07.208417] La barrera 0 tiene un coche en espera (9082 VNX) Plazas libres: 106
+[2020-11-29T18:53:07.209409800] La barrera 0 deja pasar un coche: 9082 VNX Quedan 105 plazas.
+[2020-11-29T18:53:07.220380700] Lanzando barrera 3
+[2020-11-29T18:53:07.233411600] La barrera 2 recibe un coche: 2515 GTV
+[2020-11-29T18:53:07.237416400] La barrera 2 tiene un coche en espera (2515 GTV) Plazas libres: 108
+[2020-11-29T18:53:07.246369600] La barrera 2 deja pasar un coche: 2515 GTV Quedan 107 plazas.
+[2020-11-29T18:53:07.252439500] La barrera 0 recibe un coche: 9841 YXH
+[2020-11-29T18:53:07.254415100] La barrera 0 tiene un coche en espera (9841 YXH) Plazas libres: 107
+[2020-11-29T18:53:07.254415100] La barrera 2 recibe un coche: 5233 VBH
+[2020-11-29T18:53:07.255412900] La barrera 0 deja pasar un coche: 9841 YXH Quedan 106 plazas.
+[2020-11-29T18:53:07.257407100] La barrera 0 recibe un coche: 3506 PJZ
+[2020-11-29T18:53:07.257407100] La barrera 2 tiene un coche en espera (5233 VBH) Plazas libres: 107
+[2020-11-29T18:53:07.260398400] La barrera 2 deja pasar un coche: 5233 VBH Quedan 106 plazas.
+[2020-11-29T18:53:07.261397100] La barrera 0 tiene un coche en espera (3506 PJZ) Plazas libres: 106
+[2020-11-29T18:53:07.262463] La barrera 0 deja pasar un coche: 3506 PJZ Quedan 105 plazas.
+[2020-11-29T18:53:07.264432900] La barrera 2 recibe un coche: 8354 VFW
+[2020-11-29T18:53:07.266428400] La barrera 0 recibe un coche: 4791 XBM
+[2020-11-29T18:53:07.266428400] La barrera 2 tiene un coche en espera (8354 VFW) Plazas libres: 105
+[2020-11-29T18:53:07.267424600] La barrera 2 deja pasar un coche: 8354 VFW Quedan 104 plazas.
+[2020-11-29T18:53:07.267424600] La barrera 0 tiene un coche en espera (4791 XBM) Plazas libres: 105
+[2020-11-29T18:53:07.269419900] La barrera 0 deja pasar un coche: 4791 XBM Quedan 104 plazas.
+[2020-11-29T18:53:07.270418500] La barrera 2 recibe un coche: 2378 DKG
+[2020-11-29T18:53:07.272412800] La barrera 0 recibe un coche: 8493 XKM
+[2020-11-29T18:53:07.274407500] La barrera 0 tiene un coche en espera (8493 XKM) Plazas libres: 104
+[2020-11-29T18:53:07.275403700] La barrera 2 tiene un coche en espera (2378 DKG) Plazas libres: 104
+[2020-11-29T18:53:07.276401300] La barrera 0 deja pasar un coche: 8493 XKM Quedan 103 plazas.
+[2020-11-29T18:53:07.276401300] La barrera 2 deja pasar un coche: 2378 DKG Quedan 103 plazas.
+[2020-11-29T18:53:07.277410100] La barrera 3 recibe un coche: 2602 NCS
+[2020-11-29T18:53:07.278396400] La barrera 0 recibe un coche: 9718 HRB
+[2020-11-29T18:53:07.280391200] La barrera 0 tiene un coche en espera (9718 HRB) Plazas libres: 103
+[2020-11-29T18:53:07.280391200] La barrera 3 tiene un coche en espera (2602 NCS) Plazas libres: 103
+[2020-11-29T18:53:07.281387700] La barrera 0 deja pasar un coche: 9718 HRB Quedan 102 plazas.
+[2020-11-29T18:53:07.282385100] La barrera 3 deja pasar un coche: 2602 NCS Quedan 102 plazas.
+[2020-11-29T18:53:07.283382900] La barrera 0 recibe un coche: 9589 WGZ
+[2020-11-29T18:53:07.284379700] La barrera 2 recibe un coche: 9724 QZF
+[2020-11-29T18:53:07.284379700] La barrera 3 recibe un coche: 2205 LDT
+[2020-11-29T18:53:07.287371400] La barrera 3 tiene un coche en espera (2205 LDT) Plazas libres: 102
+[2020-11-29T18:53:07.290364100] La barrera 3 deja pasar un coche: 2205 LDT Quedan 101 plazas.
+[2020-11-29T18:53:07.291361200] La barrera 2 tiene un coche en espera (9724 QZF) Plazas libres: 102
+[2020-11-29T18:53:07.292421100] La barrera 2 deja pasar un coche: 9724 QZF Quedan 101 plazas.
+[2020-11-29T18:53:07.293396] La barrera 3 recibe un coche: 7366 QKQ
+[2020-11-29T18:53:07.294393400] La barrera 2 recibe un coche: 4032 ZCJ
+[2020-11-29T18:53:07.295391100] La barrera 3 tiene un coche en espera (7366 QKQ) Plazas libres: 101
+[2020-11-29T18:53:07.296387700] La barrera 2 tiene un coche en espera (4032 ZCJ) Plazas libres: 101
+[2020-11-29T18:53:07.297388900] La barrera 3 deja pasar un coche: 7366 QKQ Quedan 100 plazas.
+[2020-11-29T18:53:07.298384] La barrera 2 deja pasar un coche: 4032 ZCJ Quedan 100 plazas.
+[2020-11-29T18:53:07.301376500] La barrera 2 recibe un coche: 4828 QCR
+[2020-11-29T18:53:07.302445300] La barrera 3 recibe un coche: 0168 PVF
+[2020-11-29T18:53:07.307416800] La barrera 2 tiene un coche en espera (4828 QCR) Plazas libres: 100
+[2020-11-29T18:53:07.308410500] La barrera 3 tiene un coche en espera (0168 PVF) Plazas libres: 100
+[2020-11-29T18:53:07.313394600] La barrera 2 deja pasar un coche: 4828 QCR Quedan 99 plazas.
+[2020-11-29T18:53:07.318381200] La barrera 3 deja pasar un coche: 0168 PVF Quedan 99 plazas.
+[2020-11-29T18:53:07.318381200] La barrera 2 recibe un coche: 4722 XRJ
+[2020-11-29T18:53:07.320382700] La barrera 3 recibe un coche: 7216 NHH
+[2020-11-29T18:53:07.321373500] La barrera 2 tiene un coche en espera (4722 XRJ) Plazas libres: 99
+[2020-11-29T18:53:07.321892400] La barrera 3 tiene un coche en espera (7216 NHH) Plazas libres: 99
+[2020-11-29T18:53:07.322415900] La barrera 2 deja pasar un coche: 4722 XRJ Quedan 98 plazas.
+[2020-11-29T18:53:07.326405800] La barrera 2 recibe un coche: 1521 FQS
+[2020-11-29T18:53:07.328384100] La barrera 2 tiene un coche en espera (1521 FQS) Plazas libres: 98
+[2020-11-29T18:53:07.329384] La barrera 2 deja pasar un coche: 1521 FQS Quedan 97 plazas.
+[2020-11-29T18:53:07.336422600] La barrera 3 deja pasar un coche: 7216 NHH Quedan 98 plazas.
+[2020-11-29T18:53:07.342405900] La barrera 3 recibe un coche: 2186 XFZ
+[2020-11-29T18:53:07.349389600] La barrera 3 tiene un coche en espera (2186 XFZ) Plazas libres: 98
+[2020-11-29T18:53:07.349389600] La barrera 2 recibe un coche: 3910 ZPL
+[2020-11-29T18:53:07.351382600] Está la barrera nº1 vivo? false
+[2020-11-29T18:53:07.351915400] La barrera 2 tiene un coche en espera (3910 ZPL) Plazas libres: 98
+[2020-11-29T18:53:07.353427300] Está la barrera nº2 vivo? true
+[2020-11-29T18:53:07.355417300] La barrera 2 deja pasar un coche: 3910 ZPL Quedan 97 plazas.
+[2020-11-29T18:53:07.355417300] La barrera 3 deja pasar un coche: 2186 XFZ Quedan 97 plazas.
+[2020-11-29T18:53:07.358425900] La barrera 2 recibe un coche: 6521 SNP
+[2020-11-29T18:53:07.361403300] La barrera 2 tiene un coche en espera (6521 SNP) Plazas libres: 97
+[2020-11-29T18:53:07.362463500] La barrera 3 recibe un coche: 3509 RCT
+[2020-11-29T18:53:07.362463500] La barrera 2 deja pasar un coche: 6521 SNP Quedan 96 plazas.
+[2020-11-29T18:53:07.364440] La barrera 3 tiene un coche en espera (3509 RCT) Plazas libres: 97
+[2020-11-29T18:53:07.364440] La barrera 2 recibe un coche: 3925 HLJ
+[2020-11-29T18:53:07.367431500] La barrera 3 deja pasar un coche: 3509 RCT Quedan 96 plazas.
+[2020-11-29T18:53:07.369432300] La barrera 2 tiene un coche en espera (3925 HLJ) Plazas libres: 96
+[2020-11-29T18:53:07.373539500] La barrera 3 recibe un coche: 8227 LTJ
+[2020-11-29T18:53:07.373539500] La barrera 2 deja pasar un coche: 3925 HLJ Quedan 95 plazas.
+[2020-11-29T18:53:07.376533400] La barrera 2 recibe un coche: 6965 XJC
+[2020-11-29T18:53:07.382516600] La barrera 2 tiene un coche en espera (6965 XJC) Plazas libres: 95
+[2020-11-29T18:53:07.382516600] La barrera 3 tiene un coche en espera (8227 LTJ) Plazas libres: 95
+[2020-11-29T18:53:07.384513500] La barrera 3 deja pasar un coche: 8227 LTJ Quedan 94 plazas.
+[2020-11-29T18:53:07.384513500] La barrera 2 deja pasar un coche: 6965 XJC Quedan 94 plazas.
+[2020-11-29T18:53:07.393489] La barrera 2 recibe un coche: 0325 RGG
+[2020-11-29T18:53:07.398484900] La barrera 2 tiene un coche en espera (0325 RGG) Plazas libres: 94
+[2020-11-29T18:53:07.400468300] La barrera 2 deja pasar un coche: 0325 RGG Quedan 93 plazas.
+[2020-11-29T18:53:07.399474600] La barrera 3 recibe un coche: 7027 LMJ
+[2020-11-29T18:53:07.404465200] La barrera 2 recibe un coche: 4906 VPC
+[2020-11-29T18:53:07.407450500] La barrera 2 tiene un coche en espera (4906 VPC) Plazas libres: 93
+[2020-11-29T18:53:07.409446] La barrera 2 deja pasar un coche: 4906 VPC Quedan 92 plazas.
+[2020-11-29T18:53:07.411439400] La barrera 2 recibe un coche: 9712 DRF
+[2020-11-29T18:53:07.415493900] La barrera 2 tiene un coche en espera (9712 DRF) Plazas libres: 92
+[2020-11-29T18:53:07.417489400] La barrera 2 deja pasar un coche: 9712 DRF Quedan 91 plazas.
+[2020-11-29T18:53:07.424541900] La barrera 2 recibe un coche: 3595 CBG
+[2020-11-29T18:53:07.428537] La barrera 2 tiene un coche en espera (3595 CBG) Plazas libres: 91
+[2020-11-29T18:53:07.433514] La barrera 2 deja pasar un coche: 3595 CBG Quedan 90 plazas.
+[2020-11-29T18:53:07.436510300] La barrera 2 recibe un coche: 7637 TMQ
+[2020-11-29T18:53:07.437502600] La barrera 2 tiene un coche en espera (7637 TMQ) Plazas libres: 90
+[2020-11-29T18:53:07.438501100] La barrera 2 deja pasar un coche: 7637 TMQ Quedan 89 plazas.
+[2020-11-29T18:53:07.444483600] La barrera 2 recibe un coche: 3059 TGK
+[2020-11-29T18:53:07.445481100] La barrera 2 tiene un coche en espera (3059 TGK) Plazas libres: 89
+[2020-11-29T18:53:07.446479500] La barrera 2 deja pasar un coche: 3059 TGK Quedan 88 plazas.
+[2020-11-29T18:53:07.448473700] La barrera 2 recibe un coche: 3006 SJJ
+[2020-11-29T18:53:07.450468800] La barrera 2 tiene un coche en espera (3006 SJJ) Plazas libres: 88
+[2020-11-29T18:53:07.451466400] La barrera 2 deja pasar un coche: 3006 SJJ Quedan 87 plazas.
+[2020-11-29T18:53:07.453466400] La barrera 2 recibe un coche: 4508 BGG
+[2020-11-29T18:53:07.455464400] La barrera 2 tiene un coche en espera (4508 BGG) Plazas libres: 87
+[2020-11-29T18:53:07.456461100] La barrera 2 deja pasar un coche: 4508 BGG Quedan 86 plazas.
+[2020-11-29T18:53:07.458446500] La barrera 2 recibe un coche: 1747 CRY
+[2020-11-29T18:53:07.460441600] La barrera 2 tiene un coche en espera (1747 CRY) Plazas libres: 86
+[2020-11-29T18:53:07.462021600] La barrera 2 deja pasar un coche: 1747 CRY Quedan 85 plazas.
+[2020-11-29T18:53:07.474509100] La barrera 2 recibe un coche: 8970 DVM
+[2020-11-29T18:53:07.476504900] La barrera 2 tiene un coche en espera (8970 DVM) Plazas libres: 85
+[2020-11-29T18:53:07.477501400] La barrera 2 deja pasar un coche: 8970 DVM Quedan 84 plazas.
+[2020-11-29T18:53:07.479495300] La barrera 2 recibe un coche: 2289 CJH
+[2020-11-29T18:53:07.480493500] La barrera 2 tiene un coche en espera (2289 CJH) Plazas libres: 84
+[2020-11-29T18:53:07.481490300] La barrera 2 deja pasar un coche: 2289 CJH Quedan 83 plazas.
+[2020-11-29T18:53:07.485481700] La barrera 2 recibe un coche: 6578 NCP
+[2020-11-29T18:53:07.487475400] La barrera 2 tiene un coche en espera (6578 NCP) Plazas libres: 83
+[2020-11-29T18:53:07.494014900] La barrera 2 deja pasar un coche: 6578 NCP Quedan 82 plazas.
+[2020-11-29T18:53:07.497006400] La barrera 2 recibe un coche: 5042 ZPB
+[2020-11-29T18:53:07.501997600] La barrera 2 tiene un coche en espera (5042 ZPB) Plazas libres: 82
+[2020-11-29T18:53:07.503986700] La barrera 2 deja pasar un coche: 5042 ZPB Quedan 81 plazas.
+[2020-11-29T18:53:07.504989200] La barrera 2 recibe un coche: 5890 VTH
+[2020-11-29T18:53:07.505979600] La barrera 2 tiene un coche en espera (5890 VTH) Plazas libres: 81
+[2020-11-29T18:53:07.506992400] La barrera 2 deja pasar un coche: 5890 VTH Quedan 80 plazas.
+[2020-11-29T18:53:07.510991200] La barrera 2 recibe un coche: 4087 KGX
+[2020-11-29T18:53:07.512960600] La barrera 2 tiene un coche en espera (4087 KGX) Plazas libres: 80
+[2020-11-29T18:53:07.513960300] La barrera 2 deja pasar un coche: 4087 KGX Quedan 79 plazas.
+[2020-11-29T18:53:07.514956800] La barrera 2 recibe un coche: 9105 RXC
+[2020-11-29T18:53:07.515953800] La barrera 2 tiene un coche en espera (9105 RXC) Plazas libres: 79
+[2020-11-29T18:53:07.516951800] La barrera 2 deja pasar un coche: 9105 RXC Quedan 78 plazas.
+[2020-11-29T18:53:07.517947800] La barrera 2 recibe un coche: 6482 DYF
+[2020-11-29T18:53:07.518945200] La barrera 2 tiene un coche en espera (6482 DYF) Plazas libres: 78
+[2020-11-29T18:53:07.525927100] La barrera 2 deja pasar un coche: 6482 DYF Quedan 77 plazas.
+[2020-11-29T18:53:07.528918800] La barrera 2 recibe un coche: 8781 QPJ
+[2020-11-29T18:53:07.532909300] La barrera 2 tiene un coche en espera (8781 QPJ) Plazas libres: 77
+[2020-11-29T18:53:07.533905900] La barrera 2 deja pasar un coche: 8781 QPJ Quedan 76 plazas.
+[2020-11-29T18:53:07.535901300] La barrera 2 recibe un coche: 7633 XFG
+[2020-11-29T18:53:07.536899] La barrera 2 tiene un coche en espera (7633 XFG) Plazas libres: 76
+[2020-11-29T18:53:07.537895800] La barrera 2 deja pasar un coche: 7633 XFG Quedan 75 plazas.
+[2020-11-29T18:53:07.538893300] La barrera 2 recibe un coche: 0013 NDY
+[2020-11-29T18:53:07.543882900] La barrera 2 tiene un coche en espera (0013 NDY) Plazas libres: 75
+[2020-11-29T18:53:07.544885800] La barrera 2 deja pasar un coche: 0013 NDY Quedan 74 plazas.
+[2020-11-29T18:53:07.545875400] La barrera 2 recibe un coche: 0509 SRC
+[2020-11-29T18:53:07.546871300] La barrera 2 tiene un coche en espera (0509 SRC) Plazas libres: 74
+[2020-11-29T18:53:07.547867500] La barrera 2 deja pasar un coche: 0509 SRC Quedan 73 plazas.
+[2020-11-29T18:53:07.549863800] La barrera 2 recibe un coche: 3468 RYP
+[2020-11-29T18:53:07.551858500] La barrera 2 tiene un coche en espera (3468 RYP) Plazas libres: 73
+[2020-11-29T18:53:07.552856600] La barrera 2 deja pasar un coche: 3468 RYP Quedan 72 plazas.
+[2020-11-29T18:53:07.553853200] La barrera 2 recibe un coche: 6845 RJX
+[2020-11-29T18:53:07.554849600] La barrera 2 tiene un coche en espera (6845 RJX) Plazas libres: 72
+[2020-11-29T18:53:07.555849100] La barrera 2 deja pasar un coche: 6845 RJX Quedan 71 plazas.
+[2020-11-29T18:53:07.558839500] La barrera 2 recibe un coche: 7116 GHT
+[2020-11-29T18:53:07.559837200] La barrera 2 tiene un coche en espera (7116 GHT) Plazas libres: 71
+[2020-11-29T18:53:07.560833900] La barrera 2 deja pasar un coche: 7116 GHT Quedan 70 plazas.
+[2020-11-29T18:53:07.562828700] La barrera 2 recibe un coche: 1593 NLV
+[2020-11-29T18:53:07.563825400] La barrera 2 tiene un coche en espera (1593 NLV) Plazas libres: 70
+[2020-11-29T18:53:07.564823700] La barrera 2 deja pasar un coche: 1593 NLV Quedan 69 plazas.
+[2020-11-29T18:53:07.568815800] La barrera 2 recibe un coche: 4838 ZCP
+[2020-11-29T18:53:07.569809500] La barrera 2 tiene un coche en espera (4838 ZCP) Plazas libres: 69
+[2020-11-29T18:53:07.570808500] La barrera 2 deja pasar un coche: 4838 ZCP Quedan 68 plazas.
+[2020-11-29T18:53:07.571805600] La barrera 2 recibe un coche: 5421 RVM
+[2020-11-29T18:53:07.572801400] La barrera 2 tiene un coche en espera (5421 RVM) Plazas libres: 68
+[2020-11-29T18:53:07.574797300] La barrera 2 deja pasar un coche: 5421 RVM Quedan 67 plazas.
+[2020-11-29T18:53:07.575794700] La barrera 2 recibe un coche: 4111 PNH
+[2020-11-29T18:53:07.576790800] La barrera 2 tiene un coche en espera (4111 PNH) Plazas libres: 67
+[2020-11-29T18:53:07.577790400] La barrera 2 deja pasar un coche: 4111 PNH Quedan 66 plazas.
+[2020-11-29T18:53:07.578788600] La barrera 2 recibe un coche: 0956 CQL
+[2020-11-29T18:53:07.579790400] La barrera 2 tiene un coche en espera (0956 CQL) Plazas libres: 66
+[2020-11-29T18:53:07.580790900] La barrera 2 deja pasar un coche: 0956 CQL Quedan 65 plazas.
+[2020-11-29T18:53:07.582775800] La barrera 2 recibe un coche: 6621 HXV
+[2020-11-29T18:53:07.583772900] La barrera 2 tiene un coche en espera (6621 HXV) Plazas libres: 65
+[2020-11-29T18:53:07.584770700] La barrera 2 deja pasar un coche: 6621 HXV Quedan 64 plazas.
+[2020-11-29T18:53:07.586764900] La barrera 2 recibe un coche: 3401 DFB
+[2020-11-29T18:53:07.587761200] La barrera 2 tiene un coche en espera (3401 DFB) Plazas libres: 64
+[2020-11-29T18:53:07.588759300] La barrera 2 deja pasar un coche: 3401 DFB Quedan 63 plazas.
+[2020-11-29T18:53:07.589756900] La barrera 2 recibe un coche: 4741 LHB
+[2020-11-29T18:53:07.591750800] La barrera 2 tiene un coche en espera (4741 LHB) Plazas libres: 63
+[2020-11-29T18:53:07.592747800] La barrera 2 deja pasar un coche: 4741 LHB Quedan 62 plazas.
+[2020-11-29T18:53:07.594743400] La barrera 2 recibe un coche: 7042 VXR
+[2020-11-29T18:53:07.595753500] La barrera 2 tiene un coche en espera (7042 VXR) Plazas libres: 62
+[2020-11-29T18:53:07.595753500] La barrera 2 deja pasar un coche: 7042 VXR Quedan 61 plazas.
+[2020-11-29T18:53:07.597735100] La barrera 2 recibe un coche: 2189 QKB
+[2020-11-29T18:53:07.598732100] La barrera 2 tiene un coche en espera (2189 QKB) Plazas libres: 61
+[2020-11-29T18:53:07.598732100] La barrera 2 deja pasar un coche: 2189 QKB Quedan 60 plazas.
+[2020-11-29T18:53:07.600726700] La barrera 2 recibe un coche: 7299 BQS
+[2020-11-29T18:53:07.600726700] La barrera 2 tiene un coche en espera (7299 BQS) Plazas libres: 60
+[2020-11-29T18:53:07.601732700] La barrera 2 deja pasar un coche: 7299 BQS Quedan 59 plazas.
+[2020-11-29T18:53:07.602721400] La barrera 2 recibe un coche: 4984 ZWW
+[2020-11-29T18:53:07.603719] La barrera 2 tiene un coche en espera (4984 ZWW) Plazas libres: 59
+[2020-11-29T18:53:07.604717400] La barrera 2 deja pasar un coche: 4984 ZWW Quedan 58 plazas.
+[2020-11-29T18:53:07.605714600] La barrera 2 recibe un coche: 4705 LCC
+[2020-11-29T18:53:07.606716300] La barrera 2 tiene un coche en espera (4705 LCC) Plazas libres: 58
+[2020-11-29T18:53:07.607709300] La barrera 2 deja pasar un coche: 4705 LCC Quedan 57 plazas.
+[2020-11-29T18:53:07.608705900] La barrera 2 recibe un coche: 5395 HWX
+[2020-11-29T18:53:07.609703600] La barrera 2 tiene un coche en espera (5395 HWX) Plazas libres: 57
+[2020-11-29T18:53:07.610700100] La barrera 2 deja pasar un coche: 5395 HWX Quedan 56 plazas.
+[2020-11-29T18:53:07.611696300] La barrera 2 recibe un coche: 6475 PGC
+[2020-11-29T18:53:07.612694400] La barrera 2 tiene un coche en espera (6475 PGC) Plazas libres: 56
+[2020-11-29T18:53:07.613705100] La barrera 2 deja pasar un coche: 6475 PGC Quedan 55 plazas.
+[2020-11-29T18:53:07.614688800] La barrera 2 recibe un coche: 4602 WZY
+[2020-11-29T18:53:07.615687400] La barrera 2 tiene un coche en espera (4602 WZY) Plazas libres: 55
+[2020-11-29T18:53:07.616684100] La barrera 2 deja pasar un coche: 4602 WZY Quedan 54 plazas.
+[2020-11-29T18:53:07.617680600] La barrera 2 recibe un coche: 0606 JLT
+[2020-11-29T18:53:07.618680100] La barrera 2 tiene un coche en espera (0606 JLT) Plazas libres: 54
+[2020-11-29T18:53:07.622668100] La barrera 2 deja pasar un coche: 0606 JLT Quedan 53 plazas.
+[2020-11-29T18:53:07.625661100] La barrera 2 recibe un coche: 8998 KYC
+[2020-11-29T18:53:07.626657800] La barrera 2 tiene un coche en espera (8998 KYC) Plazas libres: 53
+[2020-11-29T18:53:07.627656200] La barrera 2 deja pasar un coche: 8998 KYC Quedan 52 plazas.
+[2020-11-29T18:53:07.628652600] La barrera 2 recibe un coche: 1604 XZQ
+[2020-11-29T18:53:07.629649400] La barrera 2 tiene un coche en espera (1604 XZQ) Plazas libres: 52
+[2020-11-29T18:53:07.630649] La barrera 2 deja pasar un coche: 1604 XZQ Quedan 51 plazas.
+[2020-11-29T18:53:07.631644600] La barrera 2 recibe un coche: 7093 LXS
+[2020-11-29T18:53:07.632642] La barrera 2 tiene un coche en espera (7093 LXS) Plazas libres: 51
+[2020-11-29T18:53:07.633650800] La barrera 2 deja pasar un coche: 7093 LXS Quedan 50 plazas.
+[2020-11-29T18:53:07.634637] La barrera 2 recibe un coche: 3013 CWK
+[2020-11-29T18:53:07.635634200] La barrera 2 tiene un coche en espera (3013 CWK) Plazas libres: 50
+[2020-11-29T18:53:07.635634200] La barrera 2 deja pasar un coche: 3013 CWK Quedan 49 plazas.
+[2020-11-29T18:53:07.637628400] La barrera 2 recibe un coche: 7840 QXG
+[2020-11-29T18:53:07.638626100] La barrera 2 tiene un coche en espera (7840 QXG) Plazas libres: 49
+[2020-11-29T18:53:07.638626100] La barrera 2 deja pasar un coche: 7840 QXG Quedan 48 plazas.
+[2020-11-29T18:53:07.639622400] La barrera 2 recibe un coche: 8839 QGH
+[2020-11-29T18:53:07.641616900] La barrera 2 tiene un coche en espera (8839 QGH) Plazas libres: 48
+[2020-11-29T18:53:07.641616900] La barrera 2 deja pasar un coche: 8839 QGH Quedan 47 plazas.
+[2020-11-29T18:53:07.642615700] La barrera 2 recibe un coche: 0144 JJX
+[2020-11-29T18:53:07.643625] La barrera 2 tiene un coche en espera (0144 JJX) Plazas libres: 47
+[2020-11-29T18:53:07.644609700] La barrera 2 deja pasar un coche: 0144 JJX Quedan 46 plazas.
+[2020-11-29T18:53:07.644609700] La barrera 2 recibe un coche: 5593 NWJ
+[2020-11-29T18:53:07.645607] La barrera 2 tiene un coche en espera (5593 NWJ) Plazas libres: 46
+[2020-11-29T18:53:07.646605] La barrera 2 deja pasar un coche: 5593 NWJ Quedan 45 plazas.
+[2020-11-29T18:53:07.647601400] La barrera 2 recibe un coche: 0719 NRS
+[2020-11-29T18:53:07.648598900] La barrera 2 tiene un coche en espera (0719 NRS) Plazas libres: 45
+[2020-11-29T18:53:07.649596800] La barrera 2 deja pasar un coche: 0719 NRS Quedan 44 plazas.
+[2020-11-29T18:53:07.650593700] La barrera 2 recibe un coche: 6663 CTL
+[2020-11-29T18:53:07.651592200] La barrera 2 tiene un coche en espera (6663 CTL) Plazas libres: 44
+[2020-11-29T18:53:07.652588800] La barrera 2 deja pasar un coche: 6663 CTL Quedan 43 plazas.
+[2020-11-29T18:53:07.653587] La barrera 2 recibe un coche: 3649 RNS
+[2020-11-29T18:53:07.654593100] La barrera 2 tiene un coche en espera (3649 RNS) Plazas libres: 43
+[2020-11-29T18:53:07.655579700] La barrera 2 deja pasar un coche: 3649 RNS Quedan 42 plazas.
+[2020-11-29T18:53:07.656578100] La barrera 2 recibe un coche: 6040 HNJ
+[2020-11-29T18:53:07.658573900] La barrera 2 tiene un coche en espera (6040 HNJ) Plazas libres: 42
+[2020-11-29T18:53:07.658573900] La barrera 2 deja pasar un coche: 6040 HNJ Quedan 41 plazas.
+[2020-11-29T18:53:07.659570100] La barrera 2 recibe un coche: 6024 YJM
+[2020-11-29T18:53:07.660567200] La barrera 2 tiene un coche en espera (6024 YJM) Plazas libres: 41
+[2020-11-29T18:53:07.661564100] La barrera 2 deja pasar un coche: 6024 YJM Quedan 40 plazas.
+[2020-11-29T18:53:07.662561900] La barrera 2 recibe un coche: 5358 XLH
+[2020-11-29T18:53:07.664556800] La barrera 2 tiene un coche en espera (5358 XLH) Plazas libres: 40
+[2020-11-29T18:53:07.664556800] La barrera 2 deja pasar un coche: 5358 XLH Quedan 39 plazas.
+[2020-11-29T18:53:07.666561800] La barrera 2 recibe un coche: 7531 RTN
+[2020-11-29T18:53:07.666561800] La barrera 2 tiene un coche en espera (7531 RTN) Plazas libres: 39
+[2020-11-29T18:53:07.667562] La barrera 2 deja pasar un coche: 7531 RTN Quedan 38 plazas.
+[2020-11-29T18:53:07.668545900] La barrera 2 recibe un coche: 6787 CGR
+[2020-11-29T18:53:07.669542500] La barrera 2 tiene un coche en espera (6787 CGR) Plazas libres: 38
+[2020-11-29T18:53:07.670540200] La barrera 2 deja pasar un coche: 6787 CGR Quedan 37 plazas.
+[2020-11-29T18:53:07.671538600] La barrera 2 recibe un coche: 7540 KZW
+[2020-11-29T18:53:07.672535200] La barrera 2 tiene un coche en espera (7540 KZW) Plazas libres: 37
+[2020-11-29T18:53:07.674531500] La barrera 2 deja pasar un coche: 7540 KZW Quedan 36 plazas.
+[2020-11-29T18:53:07.676523800] La barrera 2 recibe un coche: 3347 KRD
+[2020-11-29T18:53:07.677521700] La barrera 2 tiene un coche en espera (3347 KRD) Plazas libres: 36
+[2020-11-29T18:53:07.684511] La barrera 2 deja pasar un coche: 3347 KRD Quedan 35 plazas.
+[2020-11-29T18:53:07.687496700] La barrera 2 recibe un coche: 4101 NMT
+[2020-11-29T18:53:07.688497500] La barrera 2 tiene un coche en espera (4101 NMT) Plazas libres: 35
+[2020-11-29T18:53:07.688497500] La barrera 2 deja pasar un coche: 4101 NMT Quedan 34 plazas.
+[2020-11-29T18:53:07.689492] La barrera 2 recibe un coche: 9055 MZG
+[2020-11-29T18:53:07.691486400] La barrera 2 tiene un coche en espera (9055 MZG) Plazas libres: 34
+[2020-11-29T18:53:07.691486400] La barrera 2 deja pasar un coche: 9055 MZG Quedan 33 plazas.
+[2020-11-29T18:53:07.695475900] La barrera 2 recibe un coche: 6824 KSP
+[2020-11-29T18:53:07.697472100] La barrera 2 tiene un coche en espera (6824 KSP) Plazas libres: 33
+[2020-11-29T18:53:07.698466200] La barrera 2 deja pasar un coche: 6824 KSP Quedan 32 plazas.
+[2020-11-29T18:53:07.699462700] La barrera 2 recibe un coche: 6395 VZQ
+[2020-11-29T18:53:07.699462700] La barrera 2 tiene un coche en espera (6395 VZQ) Plazas libres: 32
+[2020-11-29T18:53:07.700460100] La barrera 2 deja pasar un coche: 6395 VZQ Quedan 31 plazas.
+[2020-11-29T18:53:07.701457500] La barrera 2 recibe un coche: 1563 XTH
+[2020-11-29T18:53:07.702454600] La barrera 2 tiene un coche en espera (1563 XTH) Plazas libres: 31
+[2020-11-29T18:53:07.703452500] La barrera 2 deja pasar un coche: 1563 XTH Quedan 30 plazas.
+[2020-11-29T18:53:07.704452500] La barrera 2 recibe un coche: 1696 JDF
+[2020-11-29T18:53:07.705450900] La barrera 2 tiene un coche en espera (1696 JDF) Plazas libres: 30
+[2020-11-29T18:53:07.706449] La barrera 2 deja pasar un coche: 1696 JDF Quedan 29 plazas.
+[2020-11-29T18:53:07.707441800] La barrera 2 recibe un coche: 1527 VJS
+[2020-11-29T18:53:07.708447400] La barrera 2 tiene un coche en espera (1527 VJS) Plazas libres: 29
+[2020-11-29T18:53:07.709435900] La barrera 2 deja pasar un coche: 1527 VJS Quedan 28 plazas.
+[2020-11-29T18:53:07.712430400] La barrera 2 recibe un coche: 7779 TZY
+[2020-11-29T18:53:07.713425800] La barrera 2 tiene un coche en espera (7779 TZY) Plazas libres: 28
+[2020-11-29T18:53:07.714423500] La barrera 2 deja pasar un coche: 7779 TZY Quedan 27 plazas.
+[2020-11-29T18:53:07.716417900] La barrera 2 recibe un coche: 9187 MBG
+[2020-11-29T18:53:07.717429100] La barrera 2 tiene un coche en espera (9187 MBG) Plazas libres: 27
+[2020-11-29T18:53:07.718412900] La barrera 2 deja pasar un coche: 9187 MBG Quedan 26 plazas.
+[2020-11-29T18:53:07.719410500] La barrera 2 recibe un coche: 4309 ZGM
+[2020-11-29T18:53:07.720408300] La barrera 2 tiene un coche en espera (4309 ZGM) Plazas libres: 26
+[2020-11-29T18:53:07.721404900] La barrera 2 deja pasar un coche: 4309 ZGM Quedan 25 plazas.
+[2020-11-29T18:53:07.722412400] La barrera 2 recibe un coche: 7060 RBB
+[2020-11-29T18:53:07.723399] La barrera 2 tiene un coche en espera (7060 RBB) Plazas libres: 25
+[2020-11-29T18:53:07.727386800] La barrera 2 deja pasar un coche: 7060 RBB Quedan 24 plazas.
+[2020-11-29T18:53:07.729380900] La barrera 2 recibe un coche: 9085 FRT
+[2020-11-29T18:53:07.731384100] La barrera 2 tiene un coche en espera (9085 FRT) Plazas libres: 24
+[2020-11-29T18:53:07.732375800] La barrera 2 deja pasar un coche: 9085 FRT Quedan 23 plazas.
+[2020-11-29T18:53:07.733371500] La barrera 2 recibe un coche: 8980 YPC
+[2020-11-29T18:53:07.734368600] La barrera 2 tiene un coche en espera (8980 YPC) Plazas libres: 23
+[2020-11-29T18:53:07.734368600] La barrera 2 deja pasar un coche: 8980 YPC Quedan 22 plazas.
+[2020-11-29T18:53:07.735366900] La barrera 2 recibe un coche: 1350 GVR
+[2020-11-29T18:53:07.736362200] La barrera 2 tiene un coche en espera (1350 GVR) Plazas libres: 22
+[2020-11-29T18:53:07.737359200] La barrera 2 deja pasar un coche: 1350 GVR Quedan 21 plazas.
+[2020-11-29T18:53:07.738357400] La barrera 2 recibe un coche: 6439 GFN
+[2020-11-29T18:53:07.739367200] La barrera 2 tiene un coche en espera (6439 GFN) Plazas libres: 21
+[2020-11-29T18:53:07.740350600] La barrera 2 deja pasar un coche: 6439 GFN Quedan 20 plazas.
+[2020-11-29T18:53:07.741354] La barrera 2 recibe un coche: 6089 QLS
+[2020-11-29T18:53:07.742347600] La barrera 2 tiene un coche en espera (6089 QLS) Plazas libres: 20
+[2020-11-29T18:53:07.743355200] La barrera 2 deja pasar un coche: 6089 QLS Quedan 19 plazas.
+[2020-11-29T18:53:07.744341600] La barrera 2 recibe un coche: 8964 LMY
+[2020-11-29T18:53:07.744341600] La barrera 2 tiene un coche en espera (8964 LMY) Plazas libres: 19
+[2020-11-29T18:53:07.745337100] La barrera 2 deja pasar un coche: 8964 LMY Quedan 18 plazas.
+[2020-11-29T18:53:07.746334700] La barrera 2 recibe un coche: 1601 CZD
+[2020-11-29T18:53:07.747332600] La barrera 2 tiene un coche en espera (1601 CZD) Plazas libres: 18
+[2020-11-29T18:53:07.748330500] La barrera 2 deja pasar un coche: 1601 CZD Quedan 17 plazas.
+[2020-11-29T18:53:07.749333900] La barrera 2 recibe un coche: 5680 YGZ
+[2020-11-29T18:53:07.750324900] La barrera 2 tiene un coche en espera (5680 YGZ) Plazas libres: 17
+[2020-11-29T18:53:07.750324900] La barrera 2 deja pasar un coche: 5680 YGZ Quedan 16 plazas.
+[2020-11-29T18:53:07.751322200] La barrera 2 recibe un coche: 6368 DLL
+[2020-11-29T18:53:07.752319800] La barrera 2 tiene un coche en espera (6368 DLL) Plazas libres: 16
+[2020-11-29T18:53:07.753316400] La barrera 2 deja pasar un coche: 6368 DLL Quedan 15 plazas.
+[2020-11-29T18:53:07.754315] La barrera 2 recibe un coche: 4673 GPZ
+[2020-11-29T18:53:07.755311900] La barrera 2 tiene un coche en espera (4673 GPZ) Plazas libres: 15
+[2020-11-29T18:53:07.755311900] La barrera 2 deja pasar un coche: 4673 GPZ Quedan 14 plazas.
+[2020-11-29T18:53:07.757305200] La barrera 2 recibe un coche: 8577 TCZ
+[2020-11-29T18:53:07.758302300] La barrera 2 tiene un coche en espera (8577 TCZ) Plazas libres: 14
+[2020-11-29T18:53:07.759299600] La barrera 2 deja pasar un coche: 8577 TCZ Quedan 13 plazas.
+[2020-11-29T18:53:07.760298200] La barrera 2 recibe un coche: 4531 YKZ
+[2020-11-29T18:53:07.761296300] La barrera 2 tiene un coche en espera (4531 YKZ) Plazas libres: 13
+[2020-11-29T18:53:07.761296300] La barrera 2 deja pasar un coche: 4531 YKZ Quedan 12 plazas.
+[2020-11-29T18:53:07.762300] La barrera 2 recibe un coche: 4990 VQX
+[2020-11-29T18:53:07.763289] La barrera 2 tiene un coche en espera (4990 VQX) Plazas libres: 12
+[2020-11-29T18:53:07.764286400] La barrera 2 deja pasar un coche: 4990 VQX Quedan 11 plazas.
+[2020-11-29T18:53:07.765284] La barrera 2 recibe un coche: 8532 MHK
+[2020-11-29T18:53:07.766281600] La barrera 2 tiene un coche en espera (8532 MHK) Plazas libres: 11
+[2020-11-29T18:53:07.766281600] La barrera 2 deja pasar un coche: 8532 MHK Quedan 10 plazas.
+[2020-11-29T18:53:07.767278200] La barrera 2 recibe un coche: 8187 YLB
+[2020-11-29T18:53:07.768275800] La barrera 2 tiene un coche en espera (8187 YLB) Plazas libres: 10
+[2020-11-29T18:53:07.769274800] La barrera 2 deja pasar un coche: 8187 YLB Quedan 9 plazas.
+[2020-11-29T18:53:07.771269200] La barrera 2 recibe un coche: 4753 FZG
+[2020-11-29T18:53:07.771269200] La barrera 2 tiene un coche en espera (4753 FZG) Plazas libres: 9
+[2020-11-29T18:53:07.772267500] La barrera 2 deja pasar un coche: 4753 FZG Quedan 8 plazas.
+[2020-11-29T18:53:07.774260300] La barrera 2 recibe un coche: 8944 LTR
+[2020-11-29T18:53:07.776256700] La barrera 2 tiene un coche en espera (8944 LTR) Plazas libres: 8
+[2020-11-29T18:53:07.776256700] La barrera 2 deja pasar un coche: 8944 LTR Quedan 7 plazas.
+[2020-11-29T18:53:07.778250800] La barrera 2 recibe un coche: 8845 QHN
+[2020-11-29T18:53:07.780244700] La barrera 2 tiene un coche en espera (8845 QHN) Plazas libres: 7
+[2020-11-29T18:53:07.785235500] La barrera 2 deja pasar un coche: 8845 QHN Quedan 6 plazas.
+[2020-11-29T18:53:07.788225400] La barrera 2 recibe un coche: 6212 ZHS
+[2020-11-29T18:53:07.796211800] La barrera 2 tiene un coche en espera (6212 ZHS) Plazas libres: 6
+[2020-11-29T18:53:07.797199900] La barrera 2 deja pasar un coche: 6212 ZHS Quedan 5 plazas.
+[2020-11-29T18:53:07.815153600] La barrera 2 recibe un coche: 8733 SNY
+[2020-11-29T18:53:07.818144500] La barrera 2 tiene un coche en espera (8733 SNY) Plazas libres: 5
+[2020-11-29T18:53:07.821135700] La barrera 2 deja pasar un coche: 8733 SNY Quedan 4 plazas.
+[2020-11-29T18:53:07.822665900] La barrera 2 recibe un coche: 4965 PFB
+[2020-11-29T18:53:07.823643900] La barrera 2 tiene un coche en espera (4965 PFB) Plazas libres: 4
+[2020-11-29T18:53:07.825638100] La barrera 2 deja pasar un coche: 4965 PFB Quedan 3 plazas.
+[2020-11-29T18:53:07.827635300] La barrera 2 recibe un coche: 2697 VBQ
+[2020-11-29T18:53:07.828632100] La barrera 2 tiene un coche en espera (2697 VBQ) Plazas libres: 3
+[2020-11-29T18:53:07.829631100] La barrera 2 deja pasar un coche: 2697 VBQ Quedan 2 plazas.
+[2020-11-29T18:53:07.831622800] La barrera 2 recibe un coche: 0245 QGB
+[2020-11-29T18:53:07.832620900] La barrera 2 tiene un coche en espera (0245 QGB) Plazas libres: 2
+[2020-11-29T18:53:07.833619] La barrera 2 deja pasar un coche: 0245 QGB Quedan 1 plazas.
+[2020-11-29T18:53:07.834616300] La barrera 2 recibe un coche: 6669 BSG
+[2020-11-29T18:53:07.835613400] La barrera 2 tiene un coche en espera (6669 BSG) Plazas libres: 1
+[2020-11-29T18:53:07.836610900] La barrera 2 deja pasar un coche: 6669 BSG Quedan 0 plazas.
+[2020-11-29T18:53:07.837607100] La barrera 2 recibe un coche: 5494 CJX
+[2020-11-29T18:53:07.838604400] La barrera 2 tiene un coche en espera (5494 CJX) Plazas libres: 0
+[2020-11-29T18:53:07.839602200] La barrera 2 bloquea un coche: 5494 CJX Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:53:07.942516800] La barrera 2 recibe un coche: 1817 SKV
+[2020-11-29T18:53:07.947510400] La barrera 2 tiene un coche en espera (1817 SKV) Plazas libres: 0
+[2020-11-29T18:53:07.948499900] La barrera 2 bloquea un coche: 1817 SKV Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:53:08.049363900] La barrera 2 recibe un coche: 8899 PBF
+[2020-11-29T18:53:08.050363400] La barrera 2 tiene un coche en espera (8899 PBF) Plazas libres: 0
+[2020-11-29T18:53:08.051358900] La barrera 2 bloquea un coche: 8899 PBF Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:53:08.155092500] Apagada la barrera 2
+[2020-11-29T18:53:08.204950600] Está la barrera nº3 vivo? false
+[2020-11-29T18:53:08.212926600] 
+
+----EJECUCIÓN DE BARRERAS TERMINADA------
+[2020-11-29T18:53:08.213925500] Valor de salida de la barrera nº0: 1
+[2020-11-29T18:53:08.215922900] Valor de salida de la barrera nº1: 1
+[2020-11-29T18:53:08.217914400] Valor de salida de la barrera nº2: 0
+[2020-11-29T18:53:08.218912200] Valor de salida de la barrera nº3: 1
+[2020-11-29T18:53:08.219907400] ----
+Todas las barreras han terminado.
+------------------------------

@@ -1,0 +1,14 @@
+[2020-11-29T18:53:06.467975200] Está la barrera nº0 vivo? true
+[2020-11-29T18:53:07.350389300] Está la barrera nº1 vivo? false
+[2020-11-29T18:53:07.353427300] Está la barrera nº2 vivo? true
+[2020-11-29T18:53:08.204950600] Está la barrera nº3 vivo? false
+[2020-11-29T18:53:08.210933900] 
+
+----EJECUCIÓN DE BARRERAS TERMINADA------
+[2020-11-29T18:53:08.213925500] Valor de salida de la barrera nº0: 1
+[2020-11-29T18:53:08.215922900] Valor de salida de la barrera nº1: 1
+[2020-11-29T18:53:08.216916500] Valor de salida de la barrera nº2: 0
+[2020-11-29T18:53:08.218912200] Valor de salida de la barrera nº3: 1
+[2020-11-29T18:53:08.219907400] ----
+Todas las barreras han terminado.
+------------------------------

@@ -1,0 +1,29 @@
+[2020-11-29T18:47:07.002708] Lanzando barrera -nico
+[2020-11-29T18:47:07.052574400] La barrera -nico recibe un coche: 1123 SZH
+[2020-11-29T18:47:07.059555200] La barrera -nico tiene un coche en espera (1123 SZH) Plazas libres: 0
+[2020-11-29T18:47:07.062548800] La barrera -nico bloquea un coche: 1123 SZH Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.169106900] La barrera -nico recibe un coche: 9523 GNZ
+[2020-11-29T18:47:07.182070200] La barrera -nico tiene un coche en espera (9523 GNZ) Plazas libres: 0
+[2020-11-29T18:47:07.196559200] La barrera -nico bloquea un coche: 9523 GNZ Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.304284700] La barrera -nico recibe un coche: 5531 QWC
+[2020-11-29T18:47:07.313258100] La barrera -nico tiene un coche en espera (5531 QWC) Plazas libres: 0
+[2020-11-29T18:47:07.316239500] La barrera -nico bloquea un coche: 5531 QWC Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.420582300] La barrera -nico recibe un coche: 9818 YXY
+[2020-11-29T18:47:07.434536500] La barrera -nico tiene un coche en espera (9818 YXY) Plazas libres: 0
+[2020-11-29T18:47:07.439522800] La barrera -nico bloquea un coche: 9818 YXY Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.551223800] La barrera -nico recibe un coche: 4684 WQZ
+[2020-11-29T18:47:07.568184100] La barrera -nico tiene un coche en espera (4684 WQZ) Plazas libres: 0
+[2020-11-29T18:47:07.571178700] La barrera -nico bloquea un coche: 4684 WQZ Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.678123800] La barrera -nico recibe un coche: 9232 LRW
+[2020-11-29T18:47:07.682115600] La barrera -nico tiene un coche en espera (9232 LRW) Plazas libres: 0
+[2020-11-29T18:47:07.683112700] La barrera -nico bloquea un coche: 9232 LRW Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.786881400] La barrera -nico recibe un coche: 9618 PZP
+[2020-11-29T18:47:07.799866800] La barrera -nico tiene un coche en espera (9618 PZP) Plazas libres: 0
+[2020-11-29T18:47:07.803838400] La barrera -nico bloquea un coche: 9618 PZP Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:07.910574700] La barrera -nico recibe un coche: 3026 NTJ
+[2020-11-29T18:47:07.913554200] La barrera -nico tiene un coche en espera (3026 NTJ) Plazas libres: 0
+[2020-11-29T18:47:07.915537700] La barrera -nico bloquea un coche: 3026 NTJ Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:08.022550800] La barrera -nico recibe un coche: 7727 HPS
+[2020-11-29T18:47:08.030517800] La barrera -nico tiene un coche en espera (7727 HPS) Plazas libres: 0
+[2020-11-29T18:47:08.033513200] La barrera -nico bloquea un coche: 7727 HPS Quedan 0 plazas. Esperando 500ms
+[2020-11-29T18:47:08.135467400] Apagada la barrera -nico
